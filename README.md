@@ -8,9 +8,9 @@ Pick one of 50 datasets that contains reviews of a specific product, from clothi
 <br>
 
 ## Overview 
-Deliverable 1: Perform ETL on Amazon Product Reviews
-Deliverable 2: Determine Bias of Vine Reviews
-Deliverable 3: A Written Report on the Analysis (README.md)
+- Deliverable 1: Perform ETL on Amazon Product Reviews
+- Deliverable 2: Determine Bias of Vine Reviews
+- Deliverable 3: A Written Report on the Analysis (README.md)
 
 ## Results
 - How many Vine reviews and non-Vine reviews were there?
