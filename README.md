@@ -4,7 +4,7 @@ MapReduce, Spark &amp; AWS
 ## Project Background
 Analyzing Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.<br>
 <br>
-Pick one of 50 datasets that contains reviews of a specific product, from clothing apparel to wireless product. Then, using PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. Next, using SQL to determine if there is any bias toward favorable reviews from Vine members in that dataset. Lastly, a summary of the analysis will submit to the SellBy stakeholders.<br>
+Pick one of 50 datasets that contains reviews of a specific product, from clothing apparel to wireless product. Then, use PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. Next, use SQL to determine if there is any bias toward favorable reviews from Vine members in that dataset. Lastly, write a result and summary of the analysis to submit to the SellBy stakeholders.<br>
 
 ## Overview 
 - Deliverable 1: Perform ETL on Amazon Product Reviews  
