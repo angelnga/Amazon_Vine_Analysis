@@ -12,7 +12,7 @@ Pick one of 50 datasets that contains reviews of a specific product, from clothi
   - <a href = "https://github.com/angelnga/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb">  Amazon_Reviews_ETL.ipynb </a>
 - Deliverable 2: Determine Bias of Vine Reviews
   - Using SQL to determine if there is any bias towards reviews that were written as part of the Vine program. Determine if having a paid Vine review makes a difference in the percentage of 5-star reviews. 
-  - <a href = "https://github.com/angelnga/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis">  Vine_Review_Analysis.sql </a>
+  - <a href = "https://github.com/angelnga/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.sql">  Vine_Review_Analysis.sql </a>
 - Deliverable 3: A Written Report on the Analysis
 
 ## Results
